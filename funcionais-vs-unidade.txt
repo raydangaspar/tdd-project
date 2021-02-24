@@ -1,0 +1,5 @@
+Duas diferenças entre Testes Funcionais e Testes de Unidade:
+
+1 - Teste Funcional compara resultado de determinada entrada com a especificação, e assim verifica a exatidão do recurso específico, ou seja, verifica se a aplicação está apta a realizar as funções na qual foi desenvolvida para desempenhar; verifica se o código está fazendo as coisas certas. Já o Teste de Unidade avalia se o método/função do código está fazendo as coisas corretamente.
+
+2 - Testes de Unidade são escritos da perspectiva dos Programadores, enquanto Testes Funcionais são escritos da perspectiva do Usuário.
